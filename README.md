@@ -1,1 +1,1 @@
-# keycloak-event-extension
+# idp-event-extension
